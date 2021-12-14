@@ -8,7 +8,7 @@ En la pantalla inicial, este es su aspecto.
 #
 <img height="400px" width="800px" src="/src/assets/img/Screenshot_3.png">
 <img height="400px" width="800px" src="/src/assets/img/Screenshot_4.png">
-<img height="250px" width="1200px" src="/src/assets/img/Screenshot_5.png">
+<img height="150px" width="1200px" src="/src/assets/img/Screenshot_5.png">
 
 Le he añadido un favicon.
 #
@@ -24,7 +24,7 @@ Card para ir directamente al listado, que está en la parte inferior, de momento
 
 Aquí se muestra la tabla con el listado de películas y sus diferentes atributos, sigo trabajando en ello.
 #
-<img height="250px" width="1200px" src="/src/assets/img/Screenshot_13.png">
+<img height="150px" width="1200px" src="/src/assets/img/Screenshot_13.png">
 
 A continuación se puede ver el calendario inline que he añadido, y queda justo encima del apartado de estrenos, para que el usuario pueda ver la fecha del estreno y en que día estamos en ese momento, sigo trabajando en ello.
 #
