@@ -36,8 +36,8 @@ Este sería un listado con los próximos estrenos.
 
 En este otro apartado muestro las recomendaciones de películas según la edad con un NgIf, introducida en ese input por el usuario, el cual podría ir renovando cada cierto tiempo.
 #
-<img height="500px" width="600px" src="/src/assets/img/Screenshot_8.png">
+<img height="500px" width="600px" src="/src/assets/img/Screenshot_12.png">
 
 Y por último, otro apartado de la app sería un NgFor con un homenaje a actores y actrices de la historia, que iría actualizando cada mes.
 #
-<img height="500px" width="600px" src="/src/assets/img/Screenshot_9.png">
+<img height="500px" width="600px" src="/src/assets/img/Screenshot_11.png">
