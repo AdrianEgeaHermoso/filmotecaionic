@@ -12,7 +12,7 @@ En la pantalla inicial, este es su aspecto.
 
 Le he añadido un favicon.
 #
-<img height="250px" width="500px" src="/src/assets/img/Screenshot_7.png">
+<img height="250px" width="500px" src="/src/assets/img/Screenshot_1.png">
 
 Card de Bienvenida al usuario.
 #
