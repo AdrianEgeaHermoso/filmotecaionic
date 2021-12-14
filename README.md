@@ -6,7 +6,7 @@ En la pantalla inicial, este es su aspecto.
 #
 <img height="400px" width="800px" src="/src/assets/img/Screenshot_3.png">
 <img height="400px" width="800px" src="/src/assets/img/Screenshot_4.png">
-<img height="250px" width="500px" src="/src/assets/img/Screenshot_5.png">
+<img height="250px" width="1200px" src="/src/assets/img/Screenshot_5.png">
 
 Le he añadido un favicon.
 #
