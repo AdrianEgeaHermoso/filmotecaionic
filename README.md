@@ -2,6 +2,8 @@
 
 En esta aplicación podrás ver tu listado de películas, ademas de enterarte de próximos estrenos, recomendaciones y mas curiosidades.
 
+#
+
 En la pantalla inicial, este es su aspecto.
 #
 <img height="400px" width="800px" src="/src/assets/img/Screenshot_3.png">
